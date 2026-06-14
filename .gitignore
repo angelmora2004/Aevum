@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+.env.production
+.agents/
+skills-lock.json
+init-db.js
+migrate-db.js
+*.log
+.DS_Store
