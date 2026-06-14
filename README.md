@@ -1,6 +1,7 @@
 <div align="center">
 
 # Aevum
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/591bca7d-d41d-42bf-af39-330a44687452" />
 
 **Premium productivity suite with liquid glass design**
 
